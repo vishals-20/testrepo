@@ -1,5 +1,5 @@
 # IBM Data science coursera
-## peer graded assignment submit : Data Science Ecosystem
+## Peer graded assignment submit : Data Science Ecosystem
 ### Assignment
 I was provided with an empty Jupyterlite notebook which I launched in the course, to complete this assignment. I had include a combination of markdown and code cells in this assignment.
 
